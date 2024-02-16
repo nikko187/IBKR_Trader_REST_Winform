@@ -45,6 +45,7 @@
             // lbData
             // 
             lbData.FormattingEnabled = true;
+            lbData.HorizontalScrollbar = true;
             lbData.ItemHeight = 15;
             lbData.Location = new Point(12, 70);
             lbData.Name = "lbData";
